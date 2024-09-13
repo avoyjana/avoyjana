@@ -7,11 +7,10 @@
 
 ## Technical Skills 🛠️
 
-## Technical Skills
 
 ### Programming Languages
 - **Python**: 🔵 🔵 🔵 🔵 🔵
-- **Java**: 🔵 🔵 🔵 🔵 ⚪
+- **Java**: 🔵 🔵  ⚪ ⚪ ⚪
 - **Mathematica**: 🔵 🔵 🔵 ⚪ ⚪
 - **Matlab**: 🔵 🔵 🔵 ⚪ ⚪
 - **HTML/CSS**: 🔵 🔵 🔵 🔵 ⚪
@@ -23,9 +22,9 @@
 
 ### Software
 - **Visualization/Simulation**: 🔵 🔵 🔵 🔵 ⚪  
-  *(e.g., matplotlib, gnuplot, etc.)*
+  *(e.g., Matplotlib, Gnuplot, etc.)*
 - **Data handling/analysis**: 🔵 🔵 🔵 🔵 🔵  
-  *(e.g., NumPy, SciPy, Pandas, etc.)*
+  *(e.g., NumPy, SciPy, etc.)*
 
 ### Tools
 - **MS Office**: 🔵 🔵 🔵 🔵 ⚪
