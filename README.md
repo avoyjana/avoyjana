@@ -1,5 +1,6 @@
 # Hi 👋, I'm Avoy Jana
 
+# My web is https://avoyjanaiitd.github.io/Academic-Profile/
 
 ## Education 🎓
 - **Master of Science (MSc) in Physics**, Indian Institute of Technology (IIT Delhi) 🏛️ (2023-2025)
