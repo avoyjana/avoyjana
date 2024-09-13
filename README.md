@@ -1,4 +1,4 @@
-![My Image](mother.jpg)
+![My Image](motherr.jpg)
 # Hi 👋, I'm Avoy Jana
 
 # My web is https://avoyjana.github.io/Academic-Profile/
