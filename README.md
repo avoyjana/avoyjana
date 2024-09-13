@@ -1,45 +1,39 @@
-# Hi 👋, I'm Tamal Majumder
+# Hi 👋, I'm Avoy Jana
 
-[![Resume](https://img.shields.io/badge/Resume-Tamal-blue)](https://github.com/i-majumder/Resume-tamal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tamal--Majumder-blue)](https://www.linkedin.com/in/tamal-majumder/)
 
 ## Education 🎓
 - **Master of Science (MSc) in Physics**, Indian Institute of Technology (IIT Delhi) 🏛️ (2023-2025)
-- **Bachelor of Science (BSc) in Physics Honours**, Asutosh College, Calcutta University 🏫 (2020-2023)
+- **Bachelor of Science (BSc) in Physics Honours**, Panskura Banamali College, Vidyasagar University 🏫 (2019-2022)
 
 ## Technical Skills 🛠️
 
+## Technical Skills
+
 ### Programming Languages
-- Python, C++, C, Java
+- **Python**: 🔵 🔵 🔵 🔵 🔵
+- **Java**: 🔵 🔵 🔵 🔵 ⚪
+- **Mathematica**: 🔵 🔵 🔵 ⚪ ⚪
+- **Matlab**: 🔵 🔵 🔵 ⚪ ⚪
+- **HTML/CSS**: 🔵 🔵 🔵 🔵 ⚪
+- **LaTeX**: 🔵 🔵 🔵 🔵 🔵
 
-### Frameworks
-- Scikit-Learn, PyTorch, TensorFlow, Matplotlib, OpenCV, Pandas, NumPy, SciPy, StreamLit
+### Operating Systems
+- **Linux**: 🔵 🔵 🔵 ⚪ ⚪
+- **Windows**: 🔵 🔵 🔵 🔵 ⚪
 
-### Utilities
-- MS Excel, Power BI, PowerPoint, Jupyter Notebook, VSCode, RStudio, Visual Studio, Overleaf, Blender, Arduino
+### Software
+- **Visualization/Simulation**: 🔵 🔵 🔵 🔵 ⚪  
+  *(e.g., matplotlib, gnuplot, etc.)*
+- **Data handling/analysis**: 🔵 🔵 🔵 🔵 🔵  
+  *(e.g., NumPy, SciPy, Pandas, etc.)*
 
-### Database
-- SQL, MySQL
-
-### Machine Learning 📚
-- Supervised Learning, Unsupervised Learning, Model Deployment 🚀, Model Optimization ⚙️, Hyperparameter Tuning, Model Interpretability (SHAP) 🧐, AutoML (H2O) 🤖, Scikit-Learn, Classical Algorithms, Tree-Based Algorithms 🌲, Ensemble-based Algorithms
-
-### Natural Language Processing (NLP) 📝
-- Recurrent Neural Network (RNN), Hugging Face Transformers 🤗, Text Classification, Text Generation, Text Summarization 📑, Topic Modeling, Machine Translation 🌍, Question Answering 💬, NLP Data Preprocessing 🧹, Generative AI with LLMs, Image-Text Multi-models 🖼️📝, Semantic Search 🔍, Vector Database, Named Entity Extraction
-
-### Computer Vision 🖼️
-- Image Processing, Convolutional Neural Networks (CNN) 🧠📷, Image Segmentation, Object Detection 🕵️, Image Classification, Transfer Learning 🔄, Feature Extraction, Image Semantic Search 🔍🖼️
-
-### Model Deployment Tools 🌐
-- Streamlit, Flask, FastAPI 🚀, Gradio 📡, Heroku, Docker Containerization 🐳, HTML and CSS 🎨
-
-### Additional Skills 
-- Time Series Forecasting ⏳📈, Web Scraping (BeautifulSoup, Selenium, Requests) 🕸️, Linux
-
-### Deep Learning Tools/Framework 
-- NumPy, Pandas 🐼, Scikit-Learn, TensorFlow, PyTorch, Keras, Hugging Face Transformers 🤗, NLTK, SpaCy, Gensim, Word2Vec, GloVe
-
-### Data Analysis and Visualization 📊
-- Data Wrangling 🧹, Tableau, Plotly, Seaborn, Matplotlib
+### Tools
+- **MS Office**: 🔵 🔵 🔵 🔵 ⚪
+- **VS Code**: 🔵 🔵 🔵 🔵 🔵
+- **Google Colab**: 🔵 🔵 🔵 🔵 🔵
+- **Wolfram Engine**: 🔵 🔵 🔵 ⚪ ⚪
+- **Anaconda**: 🔵 🔵 🔵 🔵 ⚪
+- **GitHub**: 🔵 🔵 🔵 🔵 ⚪
 
 ## Projects 🚧
 
